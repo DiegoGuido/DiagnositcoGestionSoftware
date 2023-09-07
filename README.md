@@ -1,0 +1,2 @@
+# DiagnositcoGestionSoftware
+Examen Diagnóstico
